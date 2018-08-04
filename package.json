@@ -1,0 +1,26 @@
+{
+  "name": "extendui",
+  "version": "1.0.0",
+  "description": "extendUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinYang11/ExtendUI.git"
+  },
+  "keywords": [
+    "extendUi"
+  ],
+  "author": "robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinYang11/ExtendUI/issues"
+  },
+  "homepage": "https://github.com/RobinYang11/ExtendUI#readme",
+  "devDependencies": {
+    "vue": "^2.5.17",
+    "webpack": "^4.16.4"
+  }
+}
