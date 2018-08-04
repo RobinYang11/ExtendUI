@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/RobinYang11/ExtendUI#readme",
   "devDependencies": {
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
     "vue": "^2.5.17",
     "webpack": "^4.16.4"
   }
